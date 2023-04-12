@@ -1,0 +1,38 @@
+html{
+            background-color: white;
+}
+
+
+header{
+        background-color: darkblue;
+        color: whitesmoke;
+        text-align: center;
+}
+
+div{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+
+}
+
+h1{
+        font-size: 40px;
+        margin-bottom: 10px;
+}
+
+h2{
+        font-size: 24px;
+        margin-bottom: 10px;
+}
+
+h3{
+        font-size: 18px;
+        margin-left: 15px;
+        margin-top: 15px;
+        Margin-bottom: 5px;
+
+}
+
